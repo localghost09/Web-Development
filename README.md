@@ -1,6 +1,3 @@
-Certainly! Here's the same content formatted in Markdown:
-
-```markdown
 # Nikhil's Web Development Learning Journey
 
 Hello! I'm Nikhil, a B.Tech. (CSE) 2nd year student, on a journey to learn web development. This README.md file serves as a record of my progress and learning in this exciting field.
@@ -52,4 +49,3 @@ To apply my learning and enhance my skills, I plan to work on the following proj
 I will regularly update this README.md to document my progress, challenges faced, and lessons learned throughout my web development journey.
 
 Feel free to provide suggestions, feedback, or collaborate on projects. Let's learn and grow together! 🚀
-```
