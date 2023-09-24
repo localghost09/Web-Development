@@ -49,3 +49,4 @@ To apply my learning and enhance my skills, I plan to work on the following proj
 I will regularly update this README.md to document my progress, challenges faced, and lessons learned throughout my web development journey.
 
 Feel free to provide suggestions, feedback, or collaborate on projects. Let's learn and grow together! 🚀
+```
